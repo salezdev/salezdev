@@ -1,7 +1,7 @@
 <h1>Everton Sales👨🏽‍💻</h1>
   
   <h2>About me</h2>
-    <p> I'm Everton, i am 20 years old and a computers enthusiasm. I aim to be become a full stack developer!</p>
+    <p>Hello my name is Everton, I am 20 years old I am studying graduation in analysis and system development I am for about 5 months studying   programming, I started a short time learning about javascript.</p>
     
   <h2>Skills</h2>
     <p>Actually i'm a trainee developer learning about:</p>
